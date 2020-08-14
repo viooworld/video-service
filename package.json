@@ -1,0 +1,13 @@
+{
+  "name": "video upload service",
+  "version": "0.1A",
+  "description": "Node.js for Docker",
+  "author": "Vioo @ rodrigo@vioo.world",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
