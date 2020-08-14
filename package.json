@@ -1,5 +1,5 @@
 {
-  "name": "video upload service",
+  "name": "video-service",
   "version": "0.1A",
   "description": "Node.js for Docker",
   "author": "Vioo @ rodrigo@vioo.world",
@@ -8,6 +8,7 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.16.1"
+    "express": "^4.17.1",
+    "formidable": "^1.2.2"
   }
 }
